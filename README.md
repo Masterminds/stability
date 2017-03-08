@@ -7,8 +7,8 @@ There are five stability markers:
 
 - [Experimental](https://masterminds.github.io/stability/experimental.html): Not considered ready for prime-time usage
 - [Active](https://masterminds.github.io/stability/active.html): At least one stable release and planned feature releases.
-- Stable: One or more stable releases, and major releases planned
-  (mature).
+- Sustained: One or more stable releases, mature, and "feature
+  complete".
 - Maintenance: Stable releases, but only bug fixes planned for the
   future.
 - Unmaintained: No longer developed.

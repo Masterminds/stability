@@ -46,6 +46,17 @@ future releases. [Full description](active.html)
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 ```
 
+### Sustained
+
+At least one stable release, considered "feature complete", and
+future releases focus on stability and security. [Full description](sustained.html)
+
+[![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
+
+```
+[![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
+```
+
 ## Star Us!
 
 If you use Stability Markers for your project(s), we humbly request that
