@@ -73,6 +73,34 @@ maintainers only make bug fixes.
 [![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
 ```
 
+### Unmaintained
+
+The project is no longer maintained. This does not mean there is
+anything wrong with the project; it reflects the state of activity.
+[Full description](unmaintained.html)
+
+[![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
+
+```
+[![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
+```
+
+## Compared to SemVer
+
+One way to think about Stability Markers is as a project analog to
+[SemVer](http://semver.org).
+
+- Experimental: Not yet at a major release.
+- Active: Moving toward a major release.
+- Sustained: Focused on minor releases.
+- Maintenance: Focused on patch releases.
+- Unamintained: All done.
+
+But it's important to note that Stability Markers are intended to be as
+much an indication of project involvement as actual releases. Sometimes
+projects become unmaintained merely because the maintainers no longer
+have time.
+
 ## Star Us!
 
 If you use Stability Markers for your project(s), we humbly request that

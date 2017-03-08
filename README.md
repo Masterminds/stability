@@ -9,6 +9,6 @@ There are five stability markers:
 - [Active](https://masterminds.github.io/stability/active.html): At least one stable release and planned feature releases.
 - [Sustained](https://masterminds.github.io/stability/sustained.html): One or more stable releases, mature, and "feature complete".
 - [Maintenance](https://masterminds.github.io/stability/maintenance.html): Stable releases, but only infrequent bug fixing releases.
-- Unmaintained: No longer developed.
+- [Unmaintained](https://masterminds.github.io/stability/unmaintained.html): No longer developed.
 
 See [the main page](https://masterminds.github.io/stability) for more.
