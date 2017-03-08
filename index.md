@@ -24,6 +24,10 @@ more.
 
 ## Markers
 
+In most cases, projects move from one stability marker to the next, in
+sequence. Below, they are presented in the order of the presumed ideal
+lifecycle.
+
 ### Experimental
 
 Not ready for prime-time. Code has not stabilized.
