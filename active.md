@@ -1,8 +1,6 @@
 # Stability: Active
 
-SVG: ![Stability: Active](https://masterminds.github.io/stability/active.svg)
-
-PNG: ![Stability: Active](https://masterminds.github.io/stability/active.png)
+![Stability: Active](https://masterminds.github.io/stability/active.svg)
 
 The *Active* Stability Marker indicates that this project is under
 active development, with frequent contributions and new releases in the

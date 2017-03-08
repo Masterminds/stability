@@ -22,7 +22,12 @@ your site. We strongly recommend linking the badge back to our
 description so that users unfamiliar with Stability Markers can learn
 more.
 
-### Markers
+## Markers
+
+### Active
+
+At least one stable release, active contributors, and major
+future releases.
 
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 
