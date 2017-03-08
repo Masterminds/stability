@@ -12,7 +12,7 @@ users know what to expect from a project. Early adopters may be excited
 to find new **experimental** projects, while developers concerned with
 production usage might instead look for **active** or **sustained**
 projects. Finally, it is the nature of software to change, and sometimes
-projects become **unmaintained**. The Stability Markers project helps
+projects become **unsupported**. The Stability Markers project helps
 you inform your users which of these is the case.
 
 ## Using Stability Markers
@@ -22,7 +22,7 @@ your site. We strongly recommend linking the badge back to our
 description so that users unfamiliar with Stability Markers can learn
 more.
 
-## Markers
+## Marker
 
 In most cases, projects move from one stability marker to the next, in
 sequence. Below, they are presented in the order of the presumed ideal
@@ -73,16 +73,16 @@ maintainers only make bug fixes.
 [![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
 ```
 
-### Unmaintained
+### Unsupported
 
 The project is no longer maintained. This does not mean there is
 anything wrong with the project; it reflects the state of activity.
-[Full description](unmaintained.html)
+[Full description](unsupported.html)
 
-[![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
+[![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
 
 ```markdown
-[![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
+[![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
 ```
 
 ## Compared to SemVer
@@ -98,7 +98,7 @@ One way to think about Stability Markers is as a project analog to
 
 But it's important to note that Stability Markers are intended to be as
 much an indication of project involvement as actual releases. Sometimes
-projects become unmaintained merely because the maintainers no longer
+projects become unsupported merely because the maintainers no longer
 have time.
 
 ## Star Us!
