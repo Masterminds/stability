@@ -17,4 +17,4 @@ An *Sustained* project has the following characteristics:
 
 ```
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
-`
+```
