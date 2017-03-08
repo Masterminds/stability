@@ -35,7 +35,7 @@ Not ready for prime-time. Code has not stabilized.
 
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-```
+```markdown
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 ```
 
@@ -46,7 +46,7 @@ future releases. [Full description](active.html)
 
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 
-```
+```markdown
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 ```
 
@@ -57,7 +57,7 @@ future releases focus on stability and security. [Full description](sustained.ht
 
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
 
-```
+```markdown
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
 ```
 
@@ -69,7 +69,7 @@ maintainers only make bug fixes.
 
 [![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
 
-```
+```markdown
 [![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
 ```
 
@@ -81,7 +81,7 @@ anything wrong with the project; it reflects the state of activity.
 
 [![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
 
-```
+```markdown
 [![Stability: Unmaintained](https://masterminds.github.io/stability/unmaintained.svg)](https://masterminds.github.io/stability/unmaintained.html)
 ```
 
