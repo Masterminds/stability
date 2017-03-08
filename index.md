@@ -2,6 +2,11 @@
 
 Stability Markers indicate how mature a project is.
 
+> Projects naturally go through stages. Some are experimental and in flux.
+> Others enjoy steady contribution toward a clear roadmap. Still others are
+> basically finished, needing only the occasional fix. And, as is the nature of
+> our business, sometimes software becomes obsolete.
+
 Repositories on GitHub and other places use Stability Markers to let
 users know what to expect from a project. Early adopters may be excited
 to find new **experimental** projects, while developers concerned with
