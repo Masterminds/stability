@@ -15,6 +15,6 @@ An *Sustained* project has the following characteristics:
 
 ## Embed This Marker
 
-```
+```markdown
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
 ```

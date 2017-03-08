@@ -57,6 +57,18 @@ future releases focus on stability and security. [Full description](sustained.ht
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
 ```
 
+### Maintenance
+
+At least one stable release. Product is considered mature, and
+maintainers only make bug fixes.
+[Full description](maintenance.html)
+
+[![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
+
+```
+[![Stability: Maintenance](https://masterminds.github.io/stability/maintenance.svg)](https://masterminds.github.io/stability/maintenance.html)
+```
+
 ## Star Us!
 
 If you use Stability Markers for your project(s), we humbly request that
