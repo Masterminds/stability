@@ -12,6 +12,12 @@ An *Active* project has the following characteristics:
 - Frequent contributions
 - Multiple releases per year
 - Planned feature release(s) on the horizon
+- Often, maintainers will check on issues and bug reports a few times a
+  week.
+
+> **TIP:** Active projects often have dedicated (active) chat rooms on
+> IRC, Slack, Gitter or another popular platform. This can be a great
+> way to get better support.
 
 ## Embed This Marker
 

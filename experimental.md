@@ -13,6 +13,9 @@ An *Experimental* project has the following characteristics:
 - Code is in flux
 - Breaking changes may occur without warning
 - Early adopters welcome
+- Because the development cycle for experimental projects is tumultuous,
+  sometimes issues and bug reports will be ignored or closed so that
+  developers can focus on implementing the core features.
 
 ## Embed This Marker
 

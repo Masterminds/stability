@@ -85,21 +85,26 @@ anything wrong with the project; it reflects the state of activity.
 [![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
 ```
 
-## Compared to SemVer
+## Is It About Software or Community?
 
-One way to think about Stability Markers is as a project analog to
-[SemVer](http://semver.org).
+Stability Markers are intended to indicate the maturity of a _project_, not
+of the code itself. (SemVer is for code stability.) Stability Markers
+are intended to answer questions like:
 
-- Experimental: Not yet at a major release.
-- Active: Moving toward a major release.
-- Sustained: Focused on minor releases.
-- Maintenance: Focused on patch releases.
-- Unamintained: All done.
+- Is this project actively maintained?
+- How often can I expect a release from this project?
+- Should I expect a quick turn-around on a bug report?
+- Am I better off forking the project or contributing to it?
+- Is this a project that I might be able to join as a maintainer?
 
-But it's important to note that Stability Markers are intended to be as
-much an indication of project involvement as actual releases. Sometimes
-projects become unsupported merely because the maintainers no longer
-have time.
+Because of the nature of software, many of these questions are tied to
+the maturity of the code. Stability Markers, for example, require at
+least one stable release before a project can exit `experimental`.
+
+## Who Enforces These Guidelines?
+
+Stability Markers are self-governed: Project owners self-assign the Stability
+Marker they believe best describes their project.
 
 ## Star Us!
 
